@@ -21,13 +21,14 @@ La conception de l'application a été guidée par les **10 heuristiques d'utili
 
 ## 📦 Contenu du dépôt
 
-- `MyCouzina_Test.zip` : archive contenant le fichier exécutable `MyCouzina.exe` pour tester l'application.
-- `Rapport_MANSOURI_ETTAYEB-1_watermark-2.pdf` : rapport de présentation du projet, incluant les personas, les choix UX/UI, le scénario utilisateur, le cahier des charges et plus encore.
+- `MyCouzina_Test.zip` : archive contenant le fichier exécutable `Projet.exe` pour tester l'application.
+- `Rapport_1.pdf` : rapport de présentation du projet, incluant les personas, les choix UX/UI, le scénario utilisateur, le cahier des charges et plus encore.
+- `Rapport_2.pdf` : rapport de présentation de la structure du projet, incluant les fonctionnalités implémentées et des capture d'écran de l'application.
 
 ## 🚀 Tester l'application
 
-1. Téléchargez et décompressez le fichier `MyCouzina_Test.zip`.
-2. Lancez l’exécutable `MyCouzina.exe` (Windows uniquement).
+1. Téléchargez et décompressez le fichier `MyCouzina.zip`.
+2. Lancez l’exécutable `Projet.exe` (Windows uniquement).
 3. Aucune installation n’est requise.
 
 
