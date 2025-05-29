@@ -21,7 +21,7 @@ La conception de l'application a été guidée par les **10 heuristiques d'utili
 
 ## 📦 Contenu du dépôt
 
-- `MyCouzina_Test.zip` : archive contenant le fichier exécutable `Projet.exe` pour tester l'application.
+- `MyCouzina.zip` : archive contenant le fichier exécutable `Projet.exe` pour tester l'application.
 - `Rapport_1.pdf` : rapport de présentation du projet, incluant les personas, les choix UX/UI, le scénario utilisateur, le cahier des charges et plus encore.
 - `Rapport_2.pdf` : rapport de présentation de la structure du projet, incluant les fonctionnalités implémentées et des capture d'écran de l'application.
 
