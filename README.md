@@ -1,6 +1,6 @@
 # MyCouzina
 
-## 🇫🇷 Français
+## Version française
 
 **My Couzina** est une application de planification de cuisine en 2D destinée aux particuliers. Elle permet aux utilisateurs de concevoir et d’aménager leur cuisine de manière intuitive, avec des équipements fournis par l’entreprise cliente spécialisée dans l’habitat.
 
@@ -45,7 +45,7 @@ Pour plus de détails sur le contexte, les choix de conception et les fonctionna
 
 ------
 
-## 🇬🇧 English
+## English version
 
 **My Couzina** is a 2D kitchen planning application designed for individuals. It allows users to intuitively design and arrange their kitchen using equipment provided by the client company specializing in home improvement.
 
