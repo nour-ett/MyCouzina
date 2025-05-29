@@ -10,7 +10,6 @@
 - Gestion intelligente des collisions et des dimensions
 - Sauvegarde automatique des projets
 - Prise en charge multilingue
-- Assistance via un chatbot intégré
 
 ## 🧑‍💻 Pour qui ?
 
