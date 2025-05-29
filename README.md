@@ -34,7 +34,7 @@ La conception de l'application a été guidée par les **10 heuristiques d'utili
 
 ## 📄 Rapport de projet
 
-Pour plus de détails sur le contexte, les choix de conception et les fonctionnalités développées, consultez le fichier **Rapport_MANSOURI_ETTAYEB-1_watermark-2.pdf**.
+Pour plus de détails sur le contexte, les choix de conception et les fonctionnalités développées, consultez les fichiers **Rapport_1.pdf** et **Rapport_2.pdf**.
 
 ## 👩‍💻 Réalisé par
 
